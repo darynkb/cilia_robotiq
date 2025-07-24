@@ -1,0 +1,3 @@
+[submodule "ros2_robotiq_gripper"]
+	path = ros2_robotiq_gripper
+	url = https://github.com/darynkb/ros2_robotiq_gripper_for_tactile_sensor.git
